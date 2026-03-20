@@ -1,4 +1,4 @@
-# ux-cleanup-patch
+# GoComics UX Patch
 
 ## 🚀 Quick Start
 For those who just want to test the patch immediately, you can find the raw script here: 
